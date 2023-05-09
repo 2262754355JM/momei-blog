@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "墨眉的小站",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "description": "二次元进化中！！！.",
+    "icon": "https://valaxy.site/avatar.jpg",
+    "author": {
+        "name": "墨眉",
+        "url": "https://valaxy.site"
+    },
+    "items": []
+}

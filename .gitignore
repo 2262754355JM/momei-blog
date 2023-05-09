@@ -9,7 +9,7 @@ temp/
 
 .DS_Store
 *.local
-dist
+# dist
 dist-ssr
 node_modules
 .idea/

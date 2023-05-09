@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>墨眉的小站</title>
+    <updated>2023-05-09T14:20:44.067Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>墨眉</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/feed.atom"/>
+    <subtitle>二次元进化中！！！.</subtitle>
+    <logo>https://valaxy.site/avatar.jpg</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © 墨眉</rights>
+</feed>
