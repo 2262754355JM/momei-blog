@@ -47,11 +47,12 @@ export default defineValaxyConfig<UserThemeConfig>({
         icp: "苏ICP备17038157号",
       },
     },
-    bg_image:{
-      enable:true,
-      url:'/bgs/banner.jpg',
-      opacity:1
-    }
+    bg_image: {
+      enable: true,
+      url: "/bgs/banner.jpg",
+      opacity: 1,
+      dark: "/bgs/banner.jpg",
+    },
   },
 
   unocss: {
